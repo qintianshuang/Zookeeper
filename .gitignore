@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/Common/target/
+/ServiceConsumer/target/
+/ServiceInterface/target/
+/ServiceProvider/
+/Zookeeper/target/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceConsumer/ServiceConsumer.iml" filepath="$PROJECT_DIR$/ServiceConsumer/ServiceConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceInterface/ServiceInterface.iml" filepath="$PROJECT_DIR$/ServiceInterface/ServiceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceProvider/ServiceProvider.iml" filepath="$PROJECT_DIR$/ServiceProvider/ServiceProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper/Zookeeper.iml" filepath="$PROJECT_DIR$/Zookeeper/Zookeeper.iml" />
+    </modules>
+  </component>
+</project>
